@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Maaloum Rihem 👋
 
-<!--
-**rihemmlm7/rihemmlm7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 **UI/UX Designer** | 💻 **Web Developer**  
+Passionate about crafting beautiful and functional digital experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 I'm a self-taught UI/UX designer and frontend developer.
+- 💼 Currently working on projects using **Figma**, **React**, **TailwindCSS**, and **Firebase**.
+- 🌱 Learning more about **AI in design** and **backend development**.
+- 🛠️ I love building clean, modern, and user-centered interfaces.
+
+---
+
+## 🧰 Tech Stack
+
+**Design:**  
+`Figma` | `Adobe XD` | `Illustrator`
+
+**Frontend:**  
+`HTML` | `CSS` | `JavaScript` | `React` | `Next.js` | `TailwindCSS`
+
+**Backend & Tools:**  
+`Firebase` | `Node.js` | `Git` | `GitHub` | `Vite` | `VS Code`
+
+---
