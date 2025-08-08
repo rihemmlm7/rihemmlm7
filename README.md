@@ -34,18 +34,11 @@ Passionate about crafting beautiful and functional digital experiences.
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
 
 ## 📫 Let's Connect
 
-- 🌐 [Portfolio](https://yourportfolio.com)
-- 🐦 [Twitter / X](https://x.com/yourhandle)
-- 💼 [LinkedIn](https://linkedin.com/in/yourhandle)
+- 🌐 [Portfolio](https://www.behance.net/maaloumrihem)
+- 💼 [LinkedIn](https://www.linkedin.com/in/maaloum-rihem-414644319/)
 - 📬 DM me for collaboration or freelance work
 
 ---
