@@ -7,12 +7,12 @@ Passionate about crafting beautiful and functional digital experiences.
 
 ## 🎓 Education
 
-- 🎓 **Bachelor’s Degree in Information Technology**
-- 🎓 **Master’s Student in Cybersecurity & Artificial Intelligence**
+-  **Bachelor’s Degree in Information Technology**
+-  **Master’s Student in Cybersecurity & Artificial Intelligence**
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 - 🧠 Self-taught UI/UX designer and frontend developer.
 - 💼 Currently working on projects using **Figma**, **React**, **TailwindCSS**, and **Firebase**.
